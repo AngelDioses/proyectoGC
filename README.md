@@ -198,4 +198,3 @@ Ver las guías completas:
 ## 📄 Licencia
 
 Este proyecto es para uso académico en la FISI - UNMSM.
-
